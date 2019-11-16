@@ -1,0 +1,5 @@
+1. Role allocation 
+2. Determining deadline 
+3. Settings up priorities 
+4. Detecting others issues
+5. Scheduling meetings
